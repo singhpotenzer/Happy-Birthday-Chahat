@@ -68,11 +68,11 @@ const BookCanvas = ({ active, setActive }) => {
 
                         {/* Swapping back to H2 to match the original CSS targeting */}
                         <div className="card2-message-text italic">
-                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Trisha ❤️</article>
-                            <article style={{ marginBottom: '10px' }}>From the moment we met, something in my life shifted—like the universe quietly guiding me toward someone meant for me.You brought warmth into the parts of me I didn’t even know were cold, And you expanded my days with a dimension I can only call my own.</article>
-                            <article style={{ marginBottom: '10px' }}>On your birthday, I just want you to know this: I want you with me in every chapter, every storm, every sunshine, every tomorrow. No matter what comes, I’ll be on your side—always. I’ll choose you, protect you, stand with you, and love you in ways that remind you you’re never alone.</article>
-                            <article style={{ marginBottom: '10px' }}>You’re not just another year older today… <br />
-                                you’re the reason my life feels softer, brighter, and endlessly worth living. Happy Birthday.</article>
+                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Chahat ❤️</article>
+                            <article style={{ marginBottom: '10px' }}>Take it from someone who has never cared about birthdays, I have been really excited for your birthday for a long time </article>
+                            <article style={{ marginBottom: '10px' }}>On your birthday, I want you to know this: I want you to rise higher in every aspect of your life, no matter what decisions you take in your life, Heer.</article>
+                            <article style={{ marginBottom: '10px' }}> In every chapter, every storm, every sunshine, every tomorrow. No matter what comes, I’ll be on your side—always. I’ll choose you, protect you, stand with you, in ways that remind you you’re never alone and also give you alone time when you require it… <br />
+                                You’re not just another year older today; you are growing and I wish the best for you. Happy Birthday, Malkinnn </article>
                         </div>
 
                         <div className="card2-decoration"></div> {/* Decoration */}
@@ -91,7 +91,7 @@ const BookCanvas = ({ active, setActive }) => {
                         <div className="confetti-dots"></div>
 
                         <p className="signature">
-                            Your Best Friend, Rexon
+                            Yours always, Roshan
                         </p>
                     </div>
                 </div>
