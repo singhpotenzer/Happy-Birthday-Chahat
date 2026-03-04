@@ -4,13 +4,13 @@ const LoveLetter = () => {
     const lettersData = [
         {
             id: 1,
-            name: "Rexon",
+            name: "Roshan",
             msg: "Wish you the happiest birthday",
         },
         {
             id: 2,
-            name: "Rexon",
-            msg: "One picture from you can change my whole day, my whole mood, my whole heartbeat.",
+            name: "Roshan",
+            msg: "You feeling overwhelmed at times because of me makes me behave and fix myself, and I always want to be the man who understands what you feel.",
         },
         {
             id: 3,
@@ -127,7 +127,7 @@ const LoveLetter = () => {
                     <div className="munna envelope-flap text-black relative">
                         <div className='munna absolute left-1/2 top-[20%] -translate-x-1/2 flex items-center justify-center flex-col md:gap-y-2'>
                             <span className='munna font-sriracha md:text-2xl text-lg'>Envelope Of Love</span>
-                            <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Trisha</span>
+                            <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Heer</span>
                         </div>
                     </div>
                     <div className="munna envelope-folds">
