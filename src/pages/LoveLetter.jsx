@@ -10,37 +10,37 @@ const LoveLetter = () => {
         {
             id: 2,
             name: "Roshan",
-            msg: "You feeling overwhelmed at times because of me makes me behave and fix myself, and I always want to be the man who understands what you feel.",
+            msg: "Your layered emotional processing while taking space is always seen by me, Chahat. Take your time as you deal with it and come to me to rant anytime.",
         },
         {
             id: 3,
-            name: "Rexon",
-            msg: "Even through screens and pixels, your laugh reaches me like sunlight through a window—warm, real, and impossible to forget.",
+            name: "Roshan",
+            msg: "Your laugh reaches me like sunlight through a window—warm, real, and impossible to stop hearing.",
         },
         {
             id: 4,
-            name: "Rexon",
-            msg: "Every notification from you feels like a heartbeat whispering, I’m here, and I love you.",
+            name: "Roshan",
+            msg: "I hope every notification from me to you feels safe.",
         },
         {
             id: 5,
-            name: "Rexon",
-            msg: "Our messages might travel through wires, but every word you send lands straight in my heart.",
+            name: "Roshan",
+            msg: "Your need for independence and freedom doesn't scare me at all, but it makes me respect you more that you love your identity.",
         },
-        {
+        { 
             id: 6,
-            name: "Rexon",
-            msg: "Ever since our we met, my heart knew where it wanted to stay— with you, in every soft moment, every smile, every quiet piece of forever.",
+            name: "Roshan",
+            msg: "Ever since we met, my heart has known to be soft with you forever, and I promise you, it will continue to do so even when you are showing me parts of you that you don't like. I am here, Chahat. I will always eventually understand.",
         },
         {
             id: 7,
-            name: "Rexon",
-            msg: " but you turned it into a memory my heart refuses to forget. Since then, every moment with you has felt softer, brighter, and filled with a kind of peace only you bring.",
+            name: "Roshan",
+            msg: " You come with protective boundaries, and that taught me to give you space sometimes and not overwhelm you but just be your peace.",
         },
         {
             id: 8,
-            name: "Rexon",
-            msg: "Since our first conversation, you’ve been the quiet spark that changed my world, turning ordinary days into moments that feel beautifully meant to be.",
+            name: "Roshan",
+            msg: "Since our first conversation, you’ve been the person for whom I wish and pray happiness and peace more than myself.",
         },
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
@@ -126,7 +126,7 @@ const LoveLetter = () => {
                     </button>
                     <div className="munna envelope-flap text-black relative">
                         <div className='munna absolute left-1/2 top-[20%] -translate-x-1/2 flex items-center justify-center flex-col md:gap-y-2'>
-                            <span className='munna font-sriracha md:text-2xl text-lg'>Envelope Of Love</span>
+                            <span className='munna font-sriracha md:text-2xl text-lg'>Envelope Of Consistency and Patience</span>
                             <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Heer</span>
                         </div>
                     </div>
