@@ -15,7 +15,7 @@ const LoveLetter = () => {
         {
             id: 3,
             name: "Roshan",
-            msg: "Your laugh reaches me like sunlight through a window—warm, real, and impossible to stop hearing.",
+            msg: "Your laugh reaches me like sunlight through a window which is warm, real, and impossible to stop hearing, and I know you don't believe me, but I really love your singing.",
         },
         {
             id: 4,
