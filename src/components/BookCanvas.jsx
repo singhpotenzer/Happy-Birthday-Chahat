@@ -71,8 +71,8 @@ const BookCanvas = ({ active, setActive }) => {
                             <article style={{ marginBottom: '8px' }}>Happy Birthday, Chahat ❤️</article>
                             <article style={{ marginBottom: '10px' }}>Take it from someone who has never cared about birthdays, I have been really excited for your birthday for a long time </article>
                             <article style={{ marginBottom: '10px' }}>On your birthday, I want you to know this: I want you to rise higher in every aspect of your life, no matter what decisions you take in your life, Heer.</article>
-                            <article style={{ marginBottom: '10px' }}> In every chapter, every storm, every sunshine, every tomorrow. No matter what comes, I’ll be on your side—always. I’ll choose you, protect you, stand with you, in ways that remind you you’re never alone and also give you alone time when you require it… <br />
-                                You’re not just another year older today; you are growing and I wish the best for you. Happy Birthday, Malkinnn </article>
+                            <article style={{ marginBottom: '10px' }}> In every chapter, every storm, every sunshine, every tomorrow. No matter what comes, I just want to say you are never alone, either in rants or helping you anyway I can … <br />
+                                You’re not just another year older today; you are growing, and I wish the best for you Dil se. Happy Birthday, Malkinnn </article>
                         </div>
 
                         <div className="card2-decoration"></div> {/* Decoration */}
