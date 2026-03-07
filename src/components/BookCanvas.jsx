@@ -29,7 +29,7 @@ const BookCanvas = ({ active, setActive }) => {
                 <div className="card1">
                     <div className="cover-text-wrapper">
                         <h4 className="username">
-                            Dear Chahat<span className="underline"></span>
+                            Dear Harleen<span className="underline"></span>
                         </h4>
                         <h3 className="cover-title">
                             Happy Birthday!
