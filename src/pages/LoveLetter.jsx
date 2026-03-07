@@ -10,7 +10,7 @@ const LoveLetter = () => {
         {
             id: 2,
             name: "Roshan",
-            msg: "Your layered emotional processing while taking space is always seen by me, Chahat. Take your time as you deal with it and come to me to rant anytime.",
+            msg: "Your layered emotional processing while taking space is always seen by me, Chahat. Take your time as you deal with it and come to me to rant anytime after it or immediately in case you ever feel to.",
         },
         {
             id: 3,
