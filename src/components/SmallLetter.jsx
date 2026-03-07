@@ -78,7 +78,7 @@ const SmallLetter = () => {
         >
             x
         </div>
-        <p>Yo Malkinn,<br /><br /> I have subconsciously always added you in my prayers, and I wish this year brings you back the best and I pray you see how highly I think of you, Heer <br /><br />Rajib</p>
+        <p>Yo Malkinn,<br /><br /> I have subconsciously always added you in my prayers, and I wish this year brings you back the best and I pray you see how highly I think of you, Heer <br /><br />Roshan</p>
     </div>
 
     {/* --- NEW SVG DIARY PAGE DECORATION --- */}
