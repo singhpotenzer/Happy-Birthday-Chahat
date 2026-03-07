@@ -9,7 +9,7 @@ import smileIcon from '../assets/smiley_icon.png'
 import { Link } from "react-router";
 import BookCanvas from "../components/BookCanvas";
 import SmallLetter from "../components/SmallLetter";
-import orihime from "../assets/chahat.jpg";
+import Chahat from "../assets/Chahat.jpg";
 
 const Home = () => {
     // ------------------- Hooks 
@@ -115,7 +115,7 @@ const Home = () => {
                     <div className="right">
                         <div className="box__account">
                             <div className="image">
-                                <img src={chahat} alt="" />
+                                <img src={Chahat} alt="" />
                             </div>
                             <div className="name">
                                 <i className="fa-solid fa-heart"></i>
